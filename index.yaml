@@ -3,12 +3,12 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-11T08:54:44.56294713+05:30"
+    created: "2025-11-11T09:08:35.00233958+05:30"
     description: A Helm chart for Kubernetes
     digest: 0f9545fcdcea4c5bf997435ba96db8d90c23521a7e805024ac9d29614852d308
     name: myapp
     type: application
     urls:
-    - https://github.com/Adarshmog/helm-chart.git/myapp-0.1.0.tgz
+    - https://adarsmog.github.io/helm-chart/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-11T08:54:44.560438448+05:30"
+generated: "2025-11-11T09:08:35.000758718+05:30"
